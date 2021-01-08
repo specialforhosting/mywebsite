@@ -161,7 +161,7 @@ ul {
 }
 
 .wrapper {
-    padding: 150px 0;
+    padding: 50px 0;
     border-top: 1px solid #323641;
 }
 
@@ -797,8 +797,8 @@ body.noscroll header.fixed {
 /* start about wrapper */
 
 .about-wrapper {
-    padding-top: 100px;
-    padding-bottom: 80px;
+    padding-top: 50px;
+    padding-bottom: 50px;
     border-top: 1px solid #22252d;
 }
 
@@ -988,8 +988,8 @@ body.noscroll header.fixed {
 /* start skill wrapper */
 
 .skills-wrapper {
-    padding-bottom: 70px;
-    padding-top: 130px;
+    padding-bottom: 50px;
+    padding-top: 50px;
 }
 
 .skill-item {
@@ -1019,8 +1019,8 @@ body.noscroll header.fixed {
 /* start education wrapper */
 
 .education-wrapper {
-    padding-bottom: 40px;
-    padding-top: 140px;
+    padding-bottom: 150px;
+    padding-top: 150px;
 }
 
 .education-single {
@@ -1092,7 +1092,7 @@ body.noscroll header.fixed {
 /* start exprience wrapper */
 
 .experience-wrapper {
-    padding: 100px, 0;
+    padding: 50px, 0;
 }
 
 .experience-single {
